@@ -62,10 +62,4 @@ The brief was not very specific and I could not ask questions, so I decided the 
 
 ## Deploy to Azure
 
-```bash
-cd src/AppointmentQueue.Api
-az login
-az webapp up --name <unique-app-name> --runtime "DOTNETCORE:8.0" --sku F1 --location southeastasia
-```
-
-Live demo: _add the Azure link here once deployed_
+I have not deployed a live version, but the steps above show how. I am happy to demo it running locally.
