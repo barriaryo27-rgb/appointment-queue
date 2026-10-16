@@ -62,4 +62,4 @@ The brief was not very specific and I could not ask questions, so I decided the 
 
 ## Deploy to Azure
 
-I have not deployed a live version, but the steps above show how. I am happy to demo it running locally.
+I have not deployed a live version. The app can be hosted on Azure App Service (.NET 8)
